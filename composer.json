@@ -1,0 +1,13 @@
+{
+    "name": "weitac/user",
+    "description": "A starter package for laravel 5",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+     },
+    "autoload": {
+        "psr-4": {
+            "Weitac\\User\\": "src/"
+        }
+    }
+}
